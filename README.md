@@ -1,5 +1,3 @@
-# Computer-Architecture
-CPU and Cache System Design using Logisim
 # CPU and Cache System using Logisim
 
 ---
